@@ -16,5 +16,8 @@
     },
     "LINKTOZIP": {
         "File Upload Bot": "https://zry-link-to-zip-1.onrender.com"
+    },
+    "APKTOSOURCE": {
+        "ZRYAPKTOSOURCE": "https://apk-to-source-code-zip-spsl.onrender.com"
     }
 }
