@@ -25,5 +25,8 @@
     },
     "BOTHOSTBOT": {
         "BOT HOST BOT": "https://bot-hosting-bot.onrender.com"
+    },
+    "CHBOTHOST": {
+        "CHATEN HOST": "https://bot-hosting-bot-fjv8.onrender.com"
     }
 }
