@@ -28,5 +28,8 @@
     },
     "CHBOTHOST": {
         "CHATEN HOST": "https://bot-hosting-bot-fjv8.onrender.com"
-    }
+    },
+    "editbot": {
+        "editing bot": "https://editing-metrial-bot-py.onrender.com"
+    }    
 }
