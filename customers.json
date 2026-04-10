@@ -34,5 +34,8 @@
     },
     "host": {
         "host": "https://bot-hosting-bot-1.onrender.com"
+    },
+    "freehost": {
+        "free": "https://zry-x-pro-fre-bot-hosting.onrender.com"
     }
 }
